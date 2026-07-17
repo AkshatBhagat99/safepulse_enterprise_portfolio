@@ -34,13 +34,6 @@ SafePulse is an enterprise Business Analysis and Data Analytics portfolio projec
 | `excel` | Excel-based delivery workbook exported separately |
 | `presentation` | Executive PowerPoint deck exported separately |
 
-## How to use this for a portfolio
-
-1. Put this repository on GitHub with the README as the homepage.
-2. Use the executive deck in interviews to walk through business problem, solution, data model, KPI framework, and impact.
-3. Use the Excel workbook to demonstrate BA traceability: requirements → stories → test cases → KPIs.
-4. Use SQL files to demonstrate DA depth: joins, window functions, validation queries, executive reporting, and performance tuning.
-5. Add the resume bullets from `resume/resume_bullets.md` under a **Projects** section.
 
 ## Browser upload compatibility
 
