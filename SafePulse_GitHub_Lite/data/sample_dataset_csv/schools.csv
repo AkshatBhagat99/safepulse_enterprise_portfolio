@@ -1,0 +1,31 @@
+school_id,district_id,school_name,region,school_level,active_flag
+1,1,Riverside Elementary School,North,Elementary,True
+2,1,Riverside Middle School,South,Elementary,True
+3,1,Riverside High School,Central,Elementary,True
+4,1,Pinecrest Elementary School,North,High,True
+5,1,Pinecrest Middle School,East,Elementary,True
+6,1,Pinecrest High School,East,Middle,True
+7,1,Oak Valley Elementary School,North,Elementary,True
+8,1,Oak Valley Middle School,North,Elementary,True
+9,1,Oak Valley High School,Central,High,True
+10,1,Lakeview Elementary School,East,Elementary,True
+11,1,Lakeview Middle School,East,Elementary,True
+12,1,Lakeview High School,East,Middle,True
+13,1,Hillcrest Elementary School,Central,Middle,True
+14,1,Hillcrest Middle School,East,Middle,True
+15,1,Hillcrest High School,North,Elementary,True
+16,1,Maple Ridge Elementary School,West,Middle,True
+17,1,Maple Ridge Middle School,South,Elementary,True
+18,1,Maple Ridge High School,Central,Middle,True
+19,1,Cedar Grove Elementary School,North,Elementary,True
+20,1,Cedar Grove Middle School,West,Elementary,True
+21,1,Cedar Grove High School,South,Middle,True
+22,1,Brookfield Elementary School,East,Middle,True
+23,1,Brookfield Middle School,North,High,True
+24,1,Brookfield High School,West,High,True
+25,1,Sunset Elementary School,North,Middle,True
+26,1,Sunset Middle School,North,High,True
+27,1,Sunset High School,South,High,True
+28,1,Meadow Park Elementary School,East,Middle,True
+29,1,Meadow Park Middle School,East,Elementary,True
+30,1,Meadow Park High School,North,Elementary,True

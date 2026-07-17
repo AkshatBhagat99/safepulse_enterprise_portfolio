@@ -1,0 +1,25 @@
+Issue Type,Key,Summary,Epic Link,Priority,Status
+Story,US-0101,As a district administrator; I want unified intake capability 1 so that I can improve student support operations.,EPIC-01,Must,To Do
+Story,US-0102,As a principal; I want unified intake capability 2 so that I can improve student support operations.,EPIC-01,Must,To Do
+Story,US-0103,As a school counselor; I want unified intake capability 3 so that I can improve student support operations.,EPIC-01,Must,To Do
+Story,US-0104,As a operations director; I want unified intake capability 4 so that I can improve student support operations.,EPIC-01,Should,To Do
+Story,US-0201,As a operations director; I want triage and assignment capability 1 so that I can improve student support operations.,EPIC-02,Could,To Do
+Story,US-0202,As a principal; I want triage and assignment capability 2 so that I can improve student support operations.,EPIC-02,Must,To Do
+Story,US-0203,As a principal; I want triage and assignment capability 3 so that I can improve student support operations.,EPIC-02,Should,To Do
+Story,US-0204,As a school counselor; I want triage and assignment capability 4 so that I can improve student support operations.,EPIC-02,Could,To Do
+Story,US-0301,As a principal; I want case management capability 1 so that I can improve student support operations.,EPIC-03,Could,To Do
+Story,US-0302,As a district administrator; I want case management capability 2 so that I can improve student support operations.,EPIC-03,Could,To Do
+Story,US-0303,As a support coordinator; I want case management capability 3 so that I can improve student support operations.,EPIC-03,Could,To Do
+Story,US-0304,As a district administrator; I want case management capability 4 so that I can improve student support operations.,EPIC-03,Must,To Do
+Story,US-0401,As a BI analyst; I want sla and escalation capability 1 so that I can improve student support operations.,EPIC-04,Could,To Do
+Story,US-0402,As a school counselor; I want sla and escalation capability 2 so that I can improve student support operations.,EPIC-04,Must,To Do
+Story,US-0403,As a operations director; I want sla and escalation capability 3 so that I can improve student support operations.,EPIC-04,Should,To Do
+Story,US-0404,As a principal; I want sla and escalation capability 4 so that I can improve student support operations.,EPIC-04,Could,To Do
+Story,US-0501,As a district administrator; I want executive analytics capability 1 so that I can improve student support operations.,EPIC-05,Could,To Do
+Story,US-0502,As a school counselor; I want executive analytics capability 2 so that I can improve student support operations.,EPIC-05,Could,To Do
+Story,US-0503,As a principal; I want executive analytics capability 3 so that I can improve student support operations.,EPIC-05,Must,To Do
+Story,US-0504,As a school counselor; I want executive analytics capability 4 so that I can improve student support operations.,EPIC-05,Must,To Do
+Story,US-0601,As a principal; I want security and audit capability 1 so that I can improve student support operations.,EPIC-06,Should,To Do
+Story,US-0602,As a principal; I want security and audit capability 2 so that I can improve student support operations.,EPIC-06,Must,To Do
+Story,US-0603,As a school counselor; I want security and audit capability 3 so that I can improve student support operations.,EPIC-06,Could,To Do
+Story,US-0604,As a district administrator; I want security and audit capability 4 so that I can improve student support operations.,EPIC-06,Should,To Do

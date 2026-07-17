@@ -1,0 +1,13 @@
+category_id,category_name,category_group,active_flag
+1,Bullying Report,Academic/Attendance,True
+2,Harassment Concern,Peer & Social,True
+3,Safety Concern,Academic/Attendance,True
+4,Peer Conflict,Peer & Social,True
+5,Emotional Support Request,Safety,True
+6,Behavioral Concern,Safety,True
+7,Wellness Check,Safety,True
+8,Parent Concern,Peer & Social,True
+9,Attendance Concern,Safety,True
+10,Academic Stress,Safety,True
+11,Digital Safety Concern,Wellness,True
+12,Transportation Concern,Safety,True

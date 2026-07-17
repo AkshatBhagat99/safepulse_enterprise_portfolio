@@ -1,0 +1,11 @@
+permission_id,permission_name
+1,view_all_schools
+2,view_own_school
+3,view_assigned_cases
+4,create_case
+5,assign_case
+6,escalate_case
+7,close_case
+8,export_reports
+9,admin_users
+10,view_audit_logs

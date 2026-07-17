@@ -1,0 +1,9 @@
+department_id,department_name,active_flag
+1,Student Support,True
+2,Counseling,True
+3,School Safety,True
+4,Special Services,True
+5,Attendance,True
+6,Parent Relations,True
+7,Administration,True
+8,Wellness,True
